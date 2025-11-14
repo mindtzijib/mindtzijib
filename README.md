@@ -19,8 +19,8 @@ Apasionado por crear interfaces limpias, rápidas y centradas en el usuario.
 
 ### 📊 Stats de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mindtzijib&show_icons=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mindtzijib&layout=compact)
 
 ### 📫 Contacto
 
